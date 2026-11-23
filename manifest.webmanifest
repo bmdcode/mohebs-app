@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "MOHEBS – Atelier du maître",
+  "short_name": "MOHEBS",
+  "description": "Fiches de préparation, planification, guides, remédiation, coaching et supports MOHEBS (CI, CP, CE1 – wolof/français). Gratuit et hors connexion.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f6f3",
+  "theme_color": "#0f6b45",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
